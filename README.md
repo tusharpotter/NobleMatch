@@ -1,4 +1,4 @@
-# RoyalMatch
+# NobleMatch
 >Implementing Nobel Prize winning Gale-Shapley algorithm with Flask &amp; Heroku \
 >Reference: The Creativity Code, Marcus Du Sautoy
 
