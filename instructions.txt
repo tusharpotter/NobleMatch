@@ -1,0 +1,8 @@
+- Activate virtual environment
+.\env\Scripts\activate
+
+- Run the server
+python server\App.py
+
+- Deactivate virtul environemnt
+deactivate env
