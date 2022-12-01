@@ -20,7 +20,7 @@ This algorithm finds application for a variety of real world scenarios, such as:
 
 ## About 
 
-<img src="client/assets/Header.png">
+### <img src="client/assets/Header.png">
 
 This implementation of the Gale–Shapley algorithm aims to find stable matching for the following 4 Kings and 4 Queens given their preferences. The algorithm may be scaled to N pairs of people by simply reassigning the parameter.
 
