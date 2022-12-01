@@ -29,8 +29,6 @@ This implementation of the Gale–Shapley algorithm aims to find stable matching
 * Ensure that each King or Queen has 4 unique preferences [♣, ♦, ♥, ♠], which may be listed in any order of preference.
 * Please note that the algorithm will not work if the preferences for each Royal are not unique.
 
-###<p align="center"><img src="client/assets/RoyalMatch.png" width="550"></p>
-
 ### RESULTS
 * <b> Stable Matching: </b> The stable matching result for the given preferences is computed and displayed. There may or may not be alternate optimal solutions.
 * <b> Calculation Logs: </b> The verbose calculations for the optimal result produced are also displayed for reference. 
