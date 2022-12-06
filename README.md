@@ -1,6 +1,5 @@
 # NobleMatch
->Implementing Nobel Prize winning Gale-Shapley algorithm with Flask &amp; Heroku \
->Reference: The Creativity Code, Marcus Du Sautoy
+>Implementing Nobel Prize winning Gale-Shapley algorithm
 
 
 In mathematics, economics, and computer science, the Gale–Shapley algorithm (also known as the deferred acceptance algorithm) is an algorithm for finding a solution to the stable matching problem. The stable marriage problem (also stable matching problem or SMP) is the problem of finding a stable matching between two equally sized sets of elements given an ordering of preferences for each element. A matching is a bijection from the elements of one set to the elements of the other set. A matching is not stable if:
